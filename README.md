@@ -10,6 +10,7 @@
 - [JavaScript](#javascript)
 - [Next.js](#next.js)
 - [Typescript](#typescript)
+- [SpringBoot](#springboot)
 
 ---
 
@@ -43,3 +44,7 @@
 ### Typescript
 
 - [typeAndInterface] (2022/9/1)
+
+### SpringBoot
+
+- 1일차(2022/9/19) : 프로젝트 생성 및 Lombok Setting

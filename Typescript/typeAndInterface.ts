@@ -1,21 +1,21 @@
 // Example
 interface PeopleInterface {
-    name: string;
-    age: number;
+  name: string;
+  age: number;
 }
 const member1: PeopleInterface = {
-    name: 'yc',
-    age: 34
-}
+  name: "yc",
+  age: 34,
+};
 
 type PeopleType = {
-    name: string;
-    age: number;
-}
+  name: string;
+  age: number;
+};
 const member2: PeopleType = {
-    name: 'yjh',
-    age: 31
-}
+  name: "yjh",
+  age: 31,
+};
 
 // 여기까지만 보면 딱히 차이점이 없다
 
@@ -23,21 +23,21 @@ const member2: PeopleType = {
 // 차이점 1 : 확장성
 // Interface 확장
 interface PeopleInterface {
-    name: string;
-    age: number;
+  name: string;
+  age: number;
 }
 interface StudentInterface extends PeopleInterface {
-    school: string;
+  school: string;
 }
 
 // type 확장
 type PeopleType2 = {
-    name: string;
-    age: number;
-}
+  name: string;
+  age: number;
+};
 type StudentType = PeopleType2 & {
-    school: string;
-}
+  school: string;
+};
 
 // 뭐.. 확장하는 방법도 차이가 있지만
 // type에서는 위에서 할당한 PeopleType과 이름을 다르게 한 것처럼
@@ -48,19 +48,19 @@ type StudentType = PeopleType2 & {
 // 차이점 2 : interface 는 객체에만 사용이 가능하다
 // interface IFoo = string; (X)
 interface IFoo {
-    value: string;
+  value: string;
 }
 
 type TFoo = string; // (O)
 
 ///////////////////////////////////
 // 차이점 3 : Computed Value 사용 Type(O), Interface(X)
-type names = 'firstName' | 'lastName';
+type names = "firstName" | "lastName";
 type TNames = {
-    [key in names]: string;
-}
+  [key in names]: string;
+};
 
-const yc: TNames = { firstName: 'hi', lastName: 'yc' }
+const yc: TNames = { firstName: "hi", lastName: "yc" };
 
 // (X)
 // interface IName {
