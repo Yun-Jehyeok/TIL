@@ -71,4 +71,4 @@ const yc: TNames = { firstName: "hi", lastName: "yc" };
 // 차이점 4 : 성능면에서 interface가 좋다.... 는 좀 더 찾아봐야겠다
 // 이전까진 type에서 어디에 에러가 났는지 확인이 안됐지만 이제는 된다.
 
-// 결국 결론은 type, interface 중 하나로 통일을 하라...
+// 결국 결론은 type, interface 중 하나로 통일을 하라..
