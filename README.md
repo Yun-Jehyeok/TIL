@@ -24,7 +24,7 @@
 
 ### CS
 
-- [1일차] : (2022/09/21) Process vs Thread
+- [Process vs Thread] : Program, Process, Thread, Multi-Process, Multi-Thread, Multi-Core
 
 ### Css
 
