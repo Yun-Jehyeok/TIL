@@ -5,6 +5,7 @@
 ### Categories
 
 - [Algorithm](#algorithm)
+- [CS](#cs)
 - [Css](#css)
 - [English](#english)
 - [JavaScript](#javascript)
@@ -20,6 +21,10 @@
 - [2일차] : (2022/9/14) [브론즈5 45P] 파이썬 기본 문법 - 입출력, 라이브러리, 조건문, 반복문 등...
 - [3일차] : (2022/9/15) [브론즈3 107P]
 - [4일차] : (2022/9/16) [브론즈1 151P] [모르는 문제 UPDATE]
+
+### CS
+
+- [1일차] : (2022/9/21) Process vs Thread
 
 ### Css
 
