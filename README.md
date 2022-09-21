@@ -39,6 +39,7 @@
   - 4일차(2022/09/13) : 부분/전체를 나타내는 표현의 수일치, 제안/요청/의무와 관련된 that 절, had pp, 복합명사, all/most/some vs all/most/some + of
   - 5일차(2022/09/14) : 전치사 vs 부사절 접속사, until vs by + 시점, help, 동사 + \_\_, no / none
   - 6일차(2022/09/20) : 현재 vs 현재진행, to 부정사 vs 전치사 to, Those who vs anyone who 수일치차이, Most vs Almost, Toward(방향) vs to(목적지)
+  - 7일차(2022/09/21) : 4형식 동사, 인칭대명사, 지시대명사 that/those의 비교 기능, between vs among, 현재 진행 시제의 미래 표현
 - [듣기]
 - [어휘]
   - 1일차(2022/09/13) : 해커스 Day1 강의
