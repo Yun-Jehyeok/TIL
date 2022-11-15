@@ -61,6 +61,10 @@
   - 8일차(2022/09/22) : 해커스 Day8 강의
   - 9일차(2022/09/27) : 해커스 Day9 강의
 
+# JavaScript
+
+- [Rerendering] : rerendering 이 되지 않던 문제 편법 해결법
+
 ### Typescript
 
 - [typeAndInterface] (2022/09/01)
