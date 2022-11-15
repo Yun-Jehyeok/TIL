@@ -12,6 +12,7 @@
 - [Next.js](#next.js)
 - [Typescript](#typescript)
 - [SpringBoot](#springboot)
+- [VSCode](#vscode)
 
 ---
 
@@ -72,3 +73,7 @@
 ### SpringBoot
 
 - 1일차(2022/09/19) : 프로젝트 생성 및 Lombok Setting
+
+### VSCode
+
+- [remove unused-import] : 사용하지 않는 import 구문 save 시 자동삭제
