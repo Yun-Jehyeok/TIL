@@ -66,6 +66,10 @@
 
 - [Rerendering] : rerendering 이 되지 않던 문제 편법 해결법
 
+# Next.js
+
+- [api] : NextJS 내에서의 API 개발
+
 ### Typescript
 
 - [typeAndInterface] (2022/09/01)
