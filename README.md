@@ -13,6 +13,7 @@
 - [Typescript](#typescript)
 - [SpringBoot](#springboot)
 - [VSCode](#vscode)
+- [HTML](#html)
 
 ---
 
@@ -89,3 +90,7 @@
 ### VSCode
 
 - [remove unused-import] : 사용하지 않는 import 구문 save 시 자동삭제
+
+### HTML
+
+- [h태그에 대한 중요성]
