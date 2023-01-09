@@ -45,6 +45,10 @@
 - [HTTP] : HTTP, HTTPS, 1.1 vs 2.0, HTTPS의 암호화
 - [브라우저 렌더링 과정] : 브라우저의 전체 렌더링 과정
 - [비동기 프로그래밍] : Callback Hell, Promise, async / await
+- [CSR vs SSR] : CSR, SSR
+- [Scope] : 전역, 지역, Lexical
+- [this] : 일반 함수 실행 방식, Dot Notation, binding, new
+- [Storage] : Cookie, Session, Web(Session, Local) Storage
 
 ### Css
 
