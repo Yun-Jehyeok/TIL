@@ -17,7 +17,8 @@ current_meeting = info[0] # 0번 인덱스의 끝나는 시간이 제일 짧기 
 cnt = 1 # 첫 회의는 들어갔기에 1
 
 while True:
-    new_info = [x for x in info if x[0] >= current_meeting[1]] # 남은 미팅 중 시작 시간이 현재 미팅의 끝나는 시간 이상인 미팅들만
+    # 남은 미팅 중 시작 시간이 현재 미팅의 끝나는 시간 이상인 미팅들만
+    new_info = [x for x in info if x[0] >= current_meeting[1]] 
     
     if len(new_info) == 0: # 그런 미팅이 없을 경우 종료
         break
@@ -63,7 +64,7 @@ print(cnt)
 # 세 번째 아이디어
 # info에서 current_meeting 값을 삭제 시켜줘야되는 걸 간과했다.
 # 만약 그게 아니라면 (1, 1)이라는 값이 있을 경우 여기서 계속 돌게 된다.
-# 시간 초과 > 이제 뭐가 문제인지도 모르겠다.
+# 시간 초과.. 이제 뭐가 문제인지도 모르겠다.
 N = int(input())
 
 info = []
